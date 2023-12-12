@@ -375,7 +375,8 @@ nav .fa-solid{
         
         background: url('images/phone-bg.png');
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
+        background-position: bottom;
     }
     .header-text{
         margin-top: 110%;
